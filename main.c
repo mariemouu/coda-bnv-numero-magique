@@ -21,7 +21,7 @@ int main() {
         if (number > random_number) {
             printf("Trop haut %s ! Redescends sur terre.\n", first_name);
         } else if (number < random_number) {
-            printf("Trop bas ! Vise plus haut, champion.\n");
+            printf("Trop bas ! Vise plus haut.\n");
         } else {
             printf("INCROYABLE %s ! Trouvé en %d essai(s).?\n", first_name, attempts);
         }
