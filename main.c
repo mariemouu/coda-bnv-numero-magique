@@ -23,7 +23,7 @@ int main() {
         } else if (number < random_number) {
             printf("Trop bas ! Vise plus haut.\n");
         } else {
-            printf("INCROYABLE %s ! Trouvé en %d essai(s).?\n", first_name, attempts);
+            printf("INCROYABLE %s ! Trouvé en %d essai(s).\n", first_name, attempts);
         }
     }
 

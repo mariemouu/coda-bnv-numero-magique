@@ -7,7 +7,7 @@
 - Je lui ai demandé de m'expliquer "srand(time(NULL));" tiré de la consigne.
 - Redaction des phrases du jeu
 
-##Aide ia : Claude 
+## Aide ia : Claude 
 - En compilant le projet, j'ai utilisé par erreur `AIDE_EXTERIEURE.md` comme nom de sortie (`gcc main.c -o AIDE_EXTERIEURE.md`). Le texte a donc été remplacé par un exécutable, puis commité et poussé. J'ai demandé à Claude de m'aider à comprendre le problème et à restaurer le fichier depuis l'historique Git.
 Commandes utilisées :
 
