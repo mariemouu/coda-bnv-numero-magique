@@ -1,0 +1,7 @@
+# Exécutable généré par la compilation
+numero-magique
+a.out
+*.o
+
+# Fichiers système
+.DS_Store
